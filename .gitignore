@@ -68,6 +68,9 @@ dlldata.c
 *.scc
 *.html
 *.txt
+*.dsp
+*.dsw
+*.bat
 
 # Chutzpah Test files
 _Chutzpah*
